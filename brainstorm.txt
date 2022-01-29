@@ -1,0 +1,17 @@
+1. User enters form after racing 
+
+- Click form
+- User enters in name and race time that is from display on racetrack?
+- Data gets stored in array of objects [{user: Eric, time: 2:45}]
+- Add row to table with data from array (insert new <tr> in <tbody>) 
+- Toggle to order table from fastest race time to slowest OR could make function to auto sort table after submitting form
+
+
+2. Arduino sends race time but user still has to still enter name either before or after racing
+
+- Click form and user adds name
+- Nothing happens until arduino sends race time 
+- Arduino sends race time 
+- Data gets stored in array of objects [{user: Eric, time: 2:45}]
+- Add row to table with data from array (insert new <tr> in <tbody>) 
+- Toggle to order table from fastest race time to slowest OR could make function to auto sort table after submitting form
